@@ -6,9 +6,9 @@ function convertToBool(text, fault = 'true') {
 }
 module.exports = {
 SESSION_ID: process.env.SESSION_ID || "",
-ALIVE_IMG: process.env.ALIVE_IMG || "https://ibb.co/Myd6nJn4?raw=true",
+ALIVE_IMG: process.env.ALIVE_IMG || "https://github.com/Shananlakashan/NexaBot-MD-V1/blob/main/image/NexaBot.jpg?raw=true",
 ALIVE_MSG: process.env.ALIVE_MSG || "*Hello👋 NexaBot-MD Is Alive Now😍*",
-BOT_OWNER: '94776121326',  // Replace with the owner's phone number
+BOT_OWNER: '94727364174,  // Replace with the owner's phone number
 
 
 
